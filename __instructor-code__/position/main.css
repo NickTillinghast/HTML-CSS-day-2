@@ -10,7 +10,7 @@ body {
 .outer {
   height: 80%;
   width: 80%;
-  background-color: rgb(127, 2, 177);
+  background-color: rgb(27, 220, 20);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -20,7 +20,7 @@ body {
 .inner {
   height: 80%;
   width: 80%;
-  background-color: rgb(92, 90, 223);
+  background-color: burlywood;
   position: relative;
 }
 
@@ -28,8 +28,8 @@ body {
   height: 100px;
   width: 100px;
   border-radius: 50%;
-  background-color: blueviolet;
-  position: absolute;
+  background-color: maroon;
+  position: fixed;
 }
 
 .top {
